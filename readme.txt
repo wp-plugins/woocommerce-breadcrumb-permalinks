@@ -21,9 +21,7 @@ WooCommerce allows you have to have plain old ugly URLs, pretty URLs with just t
 
 For example:
 
-```
-http://meawesome.com/items/cool-stuff/cooler-stuff/the-stuff/
-```
+`http://meawesome.com/items/cool-stuff/cooler-stuff/the-stuff/`
 
 Now that's a sexy URL.
 
