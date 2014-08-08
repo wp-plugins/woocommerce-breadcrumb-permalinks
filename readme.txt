@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: WooCommerce Breadcrumb Permalinks
+Contributors: captaintheme
 Donate link: http://captaintheme.com
 Tags: woocommerce, permalinks, permalink, breadcrumb permalinks, woocommerce category url, ancestory permalinks, ancestory
 Requires at least: 3.8.0
