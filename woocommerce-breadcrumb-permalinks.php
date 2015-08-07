@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WooCommerce Breadcrumb Permalinks
- * Plugin URI: http://captaintheme.com/
+ * Plugin URI: https://github.com/bryceadams/woocommerce-breadcrumb-permalinks
  * Description: Allows for WC permalinks to have breadcrumb ancestory, including parent & child categories.
  * Version: 1.0.0
- * Author: Captain Theme
- * Author URI: http://captaintheme.com/
+ * Author: Bryce Adams
+ * Author URI: http://brycedams.com/
  * License: GPL2
  */
 
